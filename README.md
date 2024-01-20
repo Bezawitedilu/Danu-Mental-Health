@@ -1,19 +1,19 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/doclab)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/doclab?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/doclab?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/xu_Cg3SCZX4?style=social)](https://youtu.be/xu_Cg3SCZX4)
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/danu-mental-health/danu-mental-health)
+  ![GitHub stars](https://img.shields.io/github/stars/danu-mental-health/danu-mental-health?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/danu-mental-health/danu-mental-health?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/danu-mental-health?style=social)](https://twitter.com/intent/follow?screen_name=danu-mental-health)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/your-youtube-video-id?style=social)](https://youtu.be/your-youtube-video-id)
 
   <br />
   <br />
 
-  <h2 align="center">Doclab - Hospital Website</h2>
+  <h2 align="center">Danu Mental Health</h2>
 
-  Doclab is a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Danu Mental Health is a fully responsive mental health support website, <br />responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/doclab/"><strong>➥ Live Demo</strong></a>
+  <a href="https://danu-mental-health.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Danu Mental Health Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,24 +31,9 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Doclab** locally, run this command on your git bash:
+To run **Danu Mental Health** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/doclab.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/doclab.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+sudo git clone https://github.com/danu-mental-health/danu-mental-health.git
