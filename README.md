@@ -20,9 +20,8 @@
 <br />
 
 ### Demo Screeshots
-
-![Danu Mental Health Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
+[
+![Danu Mental Health Desktop Demo](./Danu_Screenshot.jpg "Desktop Demo")]
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
