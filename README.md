@@ -13,7 +13,7 @@
 
   Danu Mental Health is a fully responsive mental health support website, <br />responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://danu-mental-health.com/"><strong>➥ Live Demo</strong></a>
+  <a href="https://bezawitedilu.github.io/Danu-Mental-Health/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
